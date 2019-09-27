@@ -8,6 +8,10 @@ title = "Top 30 Objections to Christianity"
 
 <!--: .text-intro -->What you believe and why you believe it!
 
+
+
+<a href="#slide=2" >Questions</a>
+
 ---
 
 <!--: .wrap -->
@@ -24,6 +28,8 @@ title = "Top 30 Objections to Christianity"
 
 <!--: .wrap -->
 
+<a href="#slide=2" >Back to Questions</a>
+
 ## Problems
 1. Define what you mean by “Changed.” Languages change over time to adapt to culture and the meanings remain the same. If a message changes grammatically, the content can still be preserved. If something is changed doctrinally, it isn’t the same message you started with. This kind of change simply can’t be found in the Old or New Testament and we have written evidence to confirm this.
 2. What is your standard for reliable transmission of a message? If your standards throw out all of history as a result, you’re not being reasonable. You’re being a radical skeptic. If no evidence will convince you, you’re not looking for truth. You’re ignoring it.
@@ -39,6 +45,8 @@ Verses: 2 Timothy 3:16-17, 2 Peter 1:16, Isaiah 40:8
 ---
 
 <!--: .wrap -->
+
+<a href="#slide=2" >Back to Questions</a>
 
 ## Problems: 
 1. A Difference between two details is not a contradiction. 
@@ -216,6 +224,8 @@ Answer: John 20:17 describes His physical body ascending into Heaven. This happe
 
 <!--: .wrap -->
 
+<a href="#slide=2" >Back to Questions</a>
+
 ## Problems: 
 1. This claim is based on Naturalism. The belief that all things can be explained and occur in a way that pertain to the 5 senses. Touch, Sight, Taste, Smell, and Hear. This worldview is fundamentally incoherent since things like the Laws of Logic aren’t physical in any way, and yet are required to be real in order for it to be true. The belief’s assumption cancels itself out. 
 2. Saying Jesus didn’t rise from the dead is a historical claim, which requires historical evidence to disprove. The only claims against Jesus’ resurrection are assumptions that reject the possibility of the afterlife. “If people who die have always stayed dead, then there can’t be any exception,”  is hilariously unscientific. “If the law of gravity makes everything on earth fall at -9.8 meters per second, then anyone who has ever held anything up is lying,” ignores the little detail that other factors could be introduced. Like a hand or something. If I make assumptions that I can’t be consistent with anywhere else, they are bad assumptions. 
@@ -270,6 +280,8 @@ Cited with each claim above. On The Physical Death of Jesus by William D Edwards
 ---
 
 <!--: .wrap -->
+
+<a href="#slide=2" >Back to Questions</a>
 
 ## Problems: 
 1. “Science doesn’t say anything. Scientists do.” -Frank Turek
