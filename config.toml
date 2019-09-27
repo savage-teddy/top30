@@ -1,0 +1,28 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Top 30 Objections to Christianity"
+disableKinds = ["sitemap", "RSS"]
+theme = "hugo-webslides"
+tags = ["slide", "presentation", "responsive", "landing page"]
+features = ["webslides.js", "pre-made template", "shortcodes"]
+
+[params]
+  author = "savage-teddy"
+  homepage = "https://github.com/savage-teddy"
+
+
+[params.webslides]
+  banner = false
+  slideshow = true
+  vertical = false
+  autoslide = false
+  changeOnClick = false
+  disableLoop = false
+  minWheelDelta = 40
+  disableNavigateOnScroll = false
+  scrollWait = 450
+  slideOffset = 50
+  hideIndex = false
+
+[blackfriday]
+extensionsmask = ["autoHeaderIds"]
