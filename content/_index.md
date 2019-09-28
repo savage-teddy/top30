@@ -10,7 +10,7 @@ title = "Top 30 Objections to Christianity"
 
 
 
-<a href="#slide=2" >Questions</a>
+<a href="#slide=2" style="background-color:black;color:white;padding:10px; border-radius:10px;">Questions</a>
 
 ---
 
