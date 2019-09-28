@@ -23,19 +23,24 @@ title = "Top 30 Objections to Christianity"
 - {{< gallery title="Bibles contradicts iteself" href="#slide=4" src="Bible_Contradict.jpg" >}}Bible contradicts itself{{< /gallery >}}
 - {{< gallery title="Jesus didn't rise from the dead" href="#slide=5" src="JesusDidntRise.jpg" >}}Jesus didn't ressurect{{< /gallery >}}
 - {{< gallery title="Science has disproven the Bible" href="#slide=6" src="ScienceClaim.jpg" >}}Science Disproves Bible{{< /gallery >}}
+- {{< gallery title="Too much evil" href="#slide=7" src="Evil.jpg" >}}Too much evil{{< /gallery >}}
+- {{< gallery title="Christians discriminate" href="#slide=8" src="Discriminate.jpg" >}}Christians discriminate{{< /gallery >}}
+- {{< gallery title="Christians are violent" href="#slide=9" src="Violence.jpg" >}}Christianity is violent{{< /gallery >}}
+- {{< gallery title="Christians are arrogant" href="#slide=10" src="Arrogant.jpg" >}}One way... Arrogant{{< /gallery >}}
+
 
 ---
 
-<!--: .wrap -->
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">The Bible Has Been Changed Throughout History</h1> 
 
-<a href="#slide=2" >Back to Questions</a>
-
-## Problems
+### Problems
 1. Define what you mean by “Changed.” Languages change over time to adapt to culture and the meanings remain the same. If a message changes grammatically, the content can still be preserved. If something is changed doctrinally, it isn’t the same message you started with. This kind of change simply can’t be found in the Old or New Testament and we have written evidence to confirm this.
 2. What is your standard for reliable transmission of a message? If your standards throw out all of history as a result, you’re not being reasonable. You’re being a radical skeptic. If no evidence will convince you, you’re not looking for truth. You’re ignoring it.
 3. “The Bible was written by humans. Humans make mistakes. Therefore the Bible is full of mistakes.” is a self-defeating statement. “That statement was written by humans. Humans make mistakes. Therefore, that statement is full of mistakes.” You are assuming too much before looking at the evidence. If you believe there are mistakes, point to them specifically. Don’t just make up a clever saying that ends up destroying itself when you think about it for more than 3 seconds.  
 
-## Facts
+### Facts
 1. We have more written evidence to support the New Testament than any other document in ancient history. (Over 1000 years old) The earliest complete copies, the Codex Vaticanus and Sinaiticus are Greek copies of the New Testament that are both dated to the 300’s AD. The closest any ancient writing in history comes as close to the original as the New Testament is Homer’s Illiad, which we found a copy of 500 years after the original was written.
 2. The earliest physical evidence of the Bible’s existence is the John Ryland Fragment P52. It is a piece of The Gospel of John including several verses from chapter 18 and is dated to within 20 years of the original. Within the lifetimes of those who had seen the original and its author. 
 3. There are two ways to test if something has been changed over time. Compare the earliest copies to the latest and compare the differences, or Compare all the copies you have and see where and when changes took place over time. The earliest copy of the New Testament is the Vaticanus and it’s identical to what we’re reading today. The total number of New Testament manuscripts we have available to us to compare to the others number over 26,000 the last time we counted. We have more ability to test changes in the Bible than any other written piece of information in ancient history. 
@@ -44,25 +49,25 @@ Verses: 2 Timothy 3:16-17, 2 Peter 1:16, Isaiah 40:8
 
 ---
 
-<!--: .wrap -->
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">The Bible Contradicts Itself</h1> 
 
-<a href="#slide=2" >Back to Questions</a>
-
-## Problems: 
+### Problems: 
 1. A Difference between two details is not a contradiction. 
 2. An addition to detail is not a contradiction.
 3. A scribal error is not a contradiction.
 4. Misrepresenting the text and comparing it to another piece is not a contradiction.
 5. Reading a passage out of context and comparing it to another is not a contradiction.
 
-## Facts: 
+### Facts: 
 1. A Contradiction is where two things in the same way and in the same sense cancel each other out. The First Law of Logic is the law of Non-Contradiction. Two things that cancel each other out can’t both be true in the same way and in the same sense.
 2. Context is the who, what, when, where, why, and how of a statement. There are 3 kinds of Contexts you’ll run into when you read anything; Immediate Context - What happened after and leading up to what was said. 
 
 Historical Context - When, where, and to whom something was said.
 Extended Literary Context - What kind of book and what kind of person wrote the statement.
 
-## Examples: 
+### Examples: 
 1. Did the Samaritans receive Jesus or not?
 John 4:39-40: Yes - Luke 9:52-53: No
 Answer: Read Luke again. This was towards the end of His ministry. John was at the beginning. People’s opinions change over time. That’s not a contradiction. It’s a different time in the same place. 
@@ -222,17 +227,17 @@ Answer: John 20:17 describes His physical body ascending into Heaven. This happe
 
 ---
 
-<!--: .wrap -->
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Jesus Didn't Bodily Ressurect</h1> 
 
-<a href="#slide=2" >Back to Questions</a>
-
-## Problems: 
+### Problems: 
 1. This claim is based on Naturalism. The belief that all things can be explained and occur in a way that pertain to the 5 senses. Touch, Sight, Taste, Smell, and Hear. This worldview is fundamentally incoherent since things like the Laws of Logic aren’t physical in any way, and yet are required to be real in order for it to be true. The belief’s assumption cancels itself out. 
 2. Saying Jesus didn’t rise from the dead is a historical claim, which requires historical evidence to disprove. The only claims against Jesus’ resurrection are assumptions that reject the possibility of the afterlife. “If people who die have always stayed dead, then there can’t be any exception,”  is hilariously unscientific. “If the law of gravity makes everything on earth fall at -9.8 meters per second, then anyone who has ever held anything up is lying,” ignores the little detail that other factors could be introduced. Like a hand or something. If I make assumptions that I can’t be consistent with anywhere else, they are bad assumptions. 
 
-## Facts: 
+### Facts: 
 In order to prove Jesus rose from the dead, we only need to prove 2 things. 1. Jesus was dead. And 2. Jesus was alive again after His death.
-
+ 
 Jesus’ death is more documented than the existence of most Roman Emperors and by people who were all alive to see it for themselves or knew the eyewitnesses themselves. Ignoring the 4 gospels, we have followers of Jesus’ original disciples like Polycarp (Disciple of John), Ignatius, and Clement of Rome (Disciples of Peter) who cited the crucifixion of Jesus exactly as it was reported in the gospels. Likewise, there are non-Christian historians and scholars, both ancient and modern, who acknowledge Jesus’ death as one of the most certain facts of ancient history.
 
 1. Thallus (Samaritan) – Reported that Jerusalem went dark during Jesus' execution.
@@ -244,30 +249,31 @@ Jesus’ death is more documented than the existence of most Roman Emperors and 
 4. Josephus (Jew) – Reported Jesus was executed during the governorship of Pontius Pilate.
 -(Antiquities, XVIII, III)
 
-### Modern Day:
+#### Modern Day:
 5. James Dunn (Atheist) - the crucifixion is of the “two facts in the life of Jesus command almost universal assent”
 6. John Crossan (Atheist) - “Jesus’ death by crucifixion under Pontius Pilate is as sure as anything historical can ever be.”
 7. Bart Ehrman (Atheist) - “The crucifixion of Jesus by the Romans is one of the most secure facts we have about his life”
 To Prove Jesus’ Resurrection then requires the same standards applied to His death. According to ancient historical criticism, only two separate sources are required to prove something beyond a reasonable doubt that is over 1000 years old. To demand otherwise is simply unreasonable. And likewise, the more sources you have that are hostile towards your position only prove it more since they wouldn’t admit something was true that they hated. We can prove Jesus rose based on the hostile witnesses alone;
 
-### Hostile Reports:
+#### Hostile Reports:
 1. Saul of Tarsus: A Pharisee who hunted down and killed Christians admitting to meeting Him risen near Damascus.
 2. James bin Joseph: Jesus' biological brother thought He was crazy and didn't believe him until after he saw Him risen.
+ 
 
-**But there are positive witnesses as well**.
+#### Positive Reports:
 Christian Eyewitnesses: Mary, Mary Magdalene, Joanna, Salome, and other women, Peter, James, John, Thomas, the surviving Apostles together, Over 500 disciples at once including the apostles. (Matthew 28, Mark 16, Luke 24, John 20, Acts 1)
 1 Corinthians 15:3-8: For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures, and that He was buried, and that He rose again the third day according to the Scriptures, and that He was seen by Cephas, then by the twelve. After that He was seen by over five hundred brethren at once, of whom the greater part remain to the present, but some have fallen asleep. After that He was seen by James, then by all the apostles. Then last of all He was seen by me also, as by one born out of due time.
 These witnesses are important to note because they in themselves are also embarrassing.
 
-## Sources/Evidence: 
+#### Sources/Evidence: 
 Cited with each claim above. On The Physical Death of Jesus by William D Edwards
 
-## Christian Reports:
+#### Christian Reports:
 1. The Women: The first eyewitnesses to Jesus' resurrection were women. Culturally, that wouldn't have been made up unless it was true.
 2. The Apostles: The followers of Jesus who abandoned Him when He was arrested all saw Him after His death.
 3. The Disciples: The followers of Jesus, and of His apostles later on, all affirmed what the Gospels report.
 
-## Historical Facts:
+#### Historical Facts:
 1. Individuals and groups claimed to encounter Jesus after He was crucified.
 2. Friends and Foes of Jesus claimed to encounter Him after He was crucified.
 3. These witnesses all endured lives of persecution, torture, and death for sharing this with people.
@@ -279,11 +285,11 @@ Cited with each claim above. On The Physical Death of Jesus by William D Edwards
 
 ---
 
-<!--: .wrap -->
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Science Disproves the Bible</h1> 
 
-<a href="#slide=2" >Back to Questions</a>
-
-## Problems: 
+### Problems: 
 1. “Science doesn’t say anything. Scientists do.” -Frank Turek
 2. There’s a difference between Ontology, how things are, and Epistemology, where things came from. Science observes, tests, and repeats modern phenomena to prove Ontology. Saying that because things work a certain way today is the same way it always has or how it worked when everything first came into being are very shaky assumptions that have nothing to do with science.
 3. “Nonsense from the mouths of geniuses is still nonsense.” -John Lennox 
@@ -291,6 +297,106 @@ Facts: 1. Not a single scientific claim discredits a properly understood biblica
 2. Having a college degree doesn’t make you incapable of being wrong.
 3. If Jesus claimed to be the God that created the universe, and rose from the dead to prove it, I’m more willing to trust His word on how it happened. 
 
-### Sources/Evidence: 
+#### Sources/Evidence: 
 1. I Don’t Have Enough Faith to be an Atheist by Frank Turek and Norm Geisler, Jesus Among Other Gods by Ravi Zacharias, 
 2. Verses: 1 Corinthians 15:14-19: 1 Corinthians 1:18-23: 
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">There is too much Evil for there to be a Good God</h1> 
+
+### Problems: 
+1. In order for there to be such a thing as evil, there needs to be an objective standard for what good is and isn’t. If there is no God, you’ve either eliminated the concept of good entirely, or reduced it to an opinion at best.
+2. “There can’t be a good God and suffering. If He was all good, He’d want to do something about suffering. If He was all powerful, He’d be capable of doing something about suffering. If He’s not willing then why call Him good? If He’s not able, then why call Him God?” This objection wasn’t originally from Antony Flew. It was brought up historically by Epicurius, who was a hedonist. His view of god was pleasure. This is how his argument sounds when you realize what he means by god. “There is a god I made up whose only concern is to make us feel good all the time and avoid suffering. This god isn’t doing what I decided it should do. This god I made up doesn’t exist.” 
+3. Usually the complaint is made asking why God doesn’t punish evil. The person who argues like this has made 3 mistakes. They admitted God exists. They think that they know better than God, who knows everything, concerning when the right time is to punish evil and how. And that God somehow doesn’t have the right to offer mercy. 
+
+
+### Facts: 
+1. The Existence of Morality is an argument for God’s existence. Until a tangible paragon of moral virtue is provided that applies to all people at all times in all places, we can’t explain why we universally have a sense of right and wrong. Unless there is a standard above and beyond this Universe whose authority determined that standard by making us in His own Image. We call this standard God.
+2. God will hold everyone accountable for how they used or abused the free will He gave them.
+3. God didn’t exempt Himself from our suffering. He was the only one with the right to, yet voluntarily became a part of it. In fact, He suffered more than anyone in existence ever has or will.
+
+#### Sources/Evidence: 
+God and Philosophy by Antony Flew, I Don’t Have Enough Faith to be an Atheist by Norm Geisler and Frank Turek
+
+Verses: 2 Peter 3:9: 
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Christians descriminate against _______</h1> 
+
+### Problems: 
+1. Never judge a religion based on its abusers.
+2. Not liking the behavior of someone doesn’t make what they say false. If a person who is known to lie tells the truth, it’s still true. If an honest person lies, it’s still a lie.  
+
+
+### Facts: 
+Jesus didn’t discriminate against people. People who do so in His name are doing so ignorant of His teachings and example. I.E. Not Christians.
+Sources/Evidence: Jesus’ position towards women: Luke 10:38-39: 
+Jesus’ position towards cultural exiles: John 4:27: 
+How the original followers of Jesus viewed people from different genders, cultures, and ethnic backgrounds: Galatians 3:28-29: 
+Verses: Cited Above
+
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Christianity is just as Violent as any Other Religion</h1> 
+
+### Problems: 
+1. You’re forming conclusions about an entire belief based on the actions of individuals. You wouldn’t call all Muslims terrorists because members of it practice terrorism. You have to go to the source material that inspired them and the historical example of their founder to form effective conclusions about the religion being violent or not.
+2. Just because something is violent doesn’t make it false. World History is violent. It doesn’t mean World Wars 1 and 2 weren’t real historical events. You have to ask why the violence took place and form conclusions as to whether or not it was just. The presence of violence doesn’t prove or disprove anything.
+3. An Ad Hoc Fallacy is when you dismiss what someone says by claiming they do what you are being accused of. It doesn’t change the fact that you have still done the bad things, and now shows the only way you can defend yourself is by changing the topic. Meaning you don’t have a good defense.
+
+### Facts: 
+Every single claim of violence in the Old Testament had a historical context of war after 400+ years of mercy and only directed towards specific cultures that were aware that what they were doing would warrant consequences.
+1. Canaan: Warning given by Abraham around 2000BC. Joshua didn’t enter Canaan until 1410BC.
+2. Amalek: Warning given by Moses in 1450BC. Saul didn’t get the order to wipe them out until 1000BC.
+3. Philistines: Warning given by Samuel in 1100BC. Nebuchadnezzar didn’t wipe them out until 600BC.
+4. Assyria: Warning given by Nahum in 700BC. Nebuchadnezzar didn’t take them over until 600BC.
+5. Babylon: Warning given by Micah/Isaiah in 700BC. The Persians didn’t take them over until the 500’s. 
+
+#### Sources/Evidence: 
+Ad Hoc Fallacy defined above. 
+ 
+Verses-Warnings:
+
++ Abraham: Genesis 15:15-31
++ Moses: Exodus 17:16
++ Samuel: 1 Samuel 5-7 
++ Assyria: Nahum 1:1-15 
++ Babylon: Isaiah 13 
+
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">It's Arrogant for Christians to Claim they have the Truth</h1> 
+
+### Problems: 
+1. That’s how truth works. There’s one law of gravity that applies to all people at all times in all places. If Christianity is true, then by definition all other beliefs that conflict with its claims are false.
+2. To say that there is no absolute truth is a self-defeating statement. “There is no absolute truth! Is that absolutely true?” 
+3. Christianity and other world religions (including atheism) make claims that all exclude each other. They can all be wrong, or one of them can be right, but they all can’t be right.
+ 
+### Facts:
+Christianity claims to be true. That is either true or it isn’t. Its truth claims are impossible to reconcile with other opposing beliefs.
+**_Islam_**: Claims Jesus wasn’t God nor was crucified in Surah 4 of the Quran. The Bible teaches opposite.
+**_Buddhism_**: Claims the Universe is eternal and the impersonal god who we become one with through reincarnation. The Bible teaches a personal God separate from His creation and that salvation is decided in one lifetime.
+**_Atheism_**: Claims there is no God. The Bible teaches there is.
+**_Naturalism_**: Claims there is nothing that can’t be observed with the 5 senses. The Bible teaches there are non-physical things that are just as real as we are. (Examples: Logic, Math, God, Angels, Souls)
+**_Paganism_**: Claims there are many gods/goddesses. The Bible teaches there is only one.
+
+
+#### Sources/Evidence: 
+The First Law of Logic: The Law of Non-Contradiction.
+Two Statements Can't Cancel Themselves Out in the Same Way and the Same Sense and Both Be True.
+Verses: Isaiah 43:10: 
+1 Corinthians 15:3-8: 
+Hebrews 9:27-28: 
+John 1:1-12:  
