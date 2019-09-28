@@ -386,10 +386,15 @@ Verses-Warnings:
  
 ### Facts:
 Christianity claims to be true. That is either true or it isn’t. Its truth claims are impossible to reconcile with other opposing beliefs.
+
 **_Islam_**: Claims Jesus wasn’t God nor was crucified in Surah 4 of the Quran. The Bible teaches opposite.
+
 **_Buddhism_**: Claims the Universe is eternal and the impersonal god who we become one with through reincarnation. The Bible teaches a personal God separate from His creation and that salvation is decided in one lifetime.
+
 **_Atheism_**: Claims there is no God. The Bible teaches there is.
+
 **_Naturalism_**: Claims there is nothing that can’t be observed with the 5 senses. The Bible teaches there are non-physical things that are just as real as we are. (Examples: Logic, Math, God, Angels, Souls)
+
 **_Paganism_**: Claims there are many gods/goddesses. The Bible teaches there is only one.
 
 
