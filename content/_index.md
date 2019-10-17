@@ -27,6 +27,10 @@ title = "Top 30 Objections to Christianity"
 - {{< gallery title="Christians discriminate" href="#slide=8" src="Discriminate.jpg" >}}Christians discriminate{{< /gallery >}}
 - {{< gallery title="Christians are violent" href="#slide=9" src="Violence.jpg" >}}Christianity is violent{{< /gallery >}}
 - {{< gallery title="Christians are arrogant" href="#slide=10" src="Arrogant.jpg" >}}One way... Arrogant{{< /gallery >}}
+- {{< gallery title="There should be Separation of Church and State" href="#slide=11" src="ChurchState.jpg" >}}Church vs State{{< /gallery >}}
+- {{< gallery title="Thousands of denominations" href="#slide=12" src="Denominations.jpg" >}}Lots of Denominations{{< /gallery >}}
+- {{< gallery title="Christians are Hypocrites" href="#slide=13" src="Hypocrites.jpg" >}}Chrisitans are Hypocrites{{< /gallery >}}
+- {{< gallery title="Who created God?" href="#slide=14" src="WhoMadeGod.jpg" >}}Who created God{{< /gallery >}}
 
 
 ---
@@ -405,4 +409,77 @@ Verses: Isaiah 43:10:
 1 Corinthians 15:3-8: 
 Hebrews 9:27-28: 
 John 1:1-12:  
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">There should be separation of Church and State (America)</h1> 
+
+### Problems: 
+1. What do you mean by separation? That one shouldn’t be allowed in the other, involved in the other, or allowed to influence the other? Refusing someone’s right to practice a religion doesn’t sound like freedom. Refusing someone the right to run for office because they believe in different things than you sounds like a dictatorship. Refusing to allow the government to order a population what religion they are to practice is the purpose Thomas Jefferson brought it up. Words matter. What do you mean by them?
+  
+### Facts: 
+1. The original proposal in 1791 by Thomas Jefferson was a clarification on the 1st Amendment which guarantees the freedom of speech and religion to every citizen of the United States so there wouldn’t be a state mandated religion like Europe.
+2. The first amendment does not restrict the actions of those with religious views so long as their religious practices do not violate the law. (Example: Jihad through Terrorism is illegal. Not for religious reasons, but because mass murder is a capital offense) 
+ 
+#### Sources/Evidence: 
+The Constitution, the Establishment Clause and Free Exercise Clause of the First Amendment, 
+Verses: Deuteronomy 30:15-20
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">There are thousands of Christian denominations</h1>
+
+### Problems: 
+1. There isn’t even 1,000 Christian denominations. 
+2. A worldview having a wide diversity of application only means there is a wide diversity of appliers. 
+3. A group down the street calling themselves Christian doesn’t make them a denomination.
+4. There are things you have to be in order to be considered a Christian for the same reason there are things you have to believe in order to be a Buddhist or Muslim.
+  
+### Facts: 
+1. Not a single Christian denomination differs in the core claims of Christianity. They all acknowledge the Deity of Christ, The nature of the Trinity, the process of Salvation, and the Authority of Scripture.
+2. The differences between the denominations are in how they observe the same truths they share with the other Christian groups. Differences in preferred approaches to conduct in church and worship practices don’t make you an entirely different religion.
+ 
+#### Sources/Evidence: 
+Definition of Denomination, 
+Verses: 1 Corinthians 12:4-6, Romans 14:1-5
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Chrisitans are Hypocrites</h1>
+
+### Problems: 
+1. You’re forming conclusions about an entire belief based on the actions of individuals.
+2. Jesus didn’t do evil things unless your standards are very bizarre or uninformed.
+ 
+### Facts: Christianity is based and defined by the example and teachings of Jesus Christ. Not His followers. 
+
+#### Sources/Evidence: 
+The Teachings of Jesus and His Apostles.
+Verses: 1 Corinthians 11:1, 1 Peter 2:22
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">If God created everything, who created God?</h1>
+
+### Problems: 
+1. Expecting the Creator to function the same way as His Creation is unreasonable.
+2. Expecting the Designer to follow His own designs is irrational.
+3. Demanding God follow the same rules that humans do is stupid.
+
+### Facts: 
+1. God is spiritual, not material. Though He has a consciousness, He doesn’t have a material body and thus shouldn’t be expected to act like one.
+ 
+#### Sources/Evidence: 
+The Kalam Cosmological Argument: Everything that begins to exist has a cause. The Universe began to exist, therefore the Universe had a cause. This cause was bigger than the Universe, smart enough to cause a functional universe capable of supporting life and not collapse in on itself, conscious enough to want to create a universe, existed before the beginning of the Universe (time itself), and existed before the creation of matter. (Immaterial) What do you call a living and conscious being who is more powerful than anything that exists, has always existed, and is Spirit rather than made of matter? God.
+ 
+Verses: John 1:1-4, John 4:24
+
 
