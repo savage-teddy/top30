@@ -457,7 +457,8 @@ Verses: 1 Corinthians 12:4-6, Romans 14:1-5
 1. You’re forming conclusions about an entire belief based on the actions of individuals.
 2. Jesus didn’t do evil things unless your standards are very bizarre or uninformed.
  
-### Facts: Christianity is based and defined by the example and teachings of Jesus Christ. Not His followers. 
+### Facts: 
+Christianity is based and defined by the example and teachings of Jesus Christ. Not His followers. 
 
 #### Sources/Evidence: 
 The Teachings of Jesus and His Apostles.
