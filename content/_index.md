@@ -32,6 +32,10 @@ title = "Top 30 Objections to Christianity"
 - {{< gallery title="Christians are Hypocrites" href="#slide=13" src="Hypocrites.jpg" >}}Chrisitans are Hypocrites{{< /gallery >}}
 - {{< gallery title="Who created God?" href="#slide=14" src="WhoMadeGod.jpg" >}}Who created God{{< /gallery >}}
 
+- {{< gallery title="Nicaea invented Christ" href="#slide=15" src="Nicaea.jpg" >}}Nicaea invented Christ{{< /gallery >}}
+- {{< gallery title="Jesus was borrowed" href="#slide=16" src="JesusLegend.jpg" >}}Jesus was borrowed{{< /gallery >}}
+- {{< gallery title="Jesus is a Myth" href="#slide=17" src="JesusMyth.jpg" >}}Jesus is a Myth{{< /gallery >}}
+- {{< gallery title="Gospels aren't Reliable" href="#slide=18" src="BadGospels.jpg" >}}Gospels aren't Reliable{{< /gallery >}}
 
 ---
 
@@ -483,4 +487,266 @@ The Kalam Cosmological Argument: Everything that begins to exist has a cause. Th
  
 Verses: John 1:1-4, John 4:24
 
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">The Council of Nicaea Invented Modern Christianity</h1>
+
+### Problems: 
+1. Atheist and Agnostic scholars both acknowledge that Jesus’ deity, death, and resurrection were all established as authoritative tradition within MONTHS of His crucifixion. Not 300 years later.
+2. The Council of Nicaea had nothing to do with the Canon. It was on how Jesus was both God and man.
+3. The Davinci Code is a self-admitted work of fiction and not a sound historical reference.
+
+### Facts: 
+1. The Council of Nicaea was one of the first public meetings of Christians that was sponsored by the Emperor and without the risk of being murdered for their faith. It was dealing with the teachings of a bishop named Arius who held an abhorrent view of Jesus as only a man but not God due to his cultural biases. They didn’t bring up anything but the Bible to dispute his points and left the council with nothing added to Christianity that wasn’t already there since the first Easter. 
+
+#### Sources/Evidence: 
+1. “This tradition, we can be entirely confident, was formulated as tradition within months of Jesus’ death.” -James DG Dunn from the Jesus Seminar referring to 1 Corinthians 15:3-7
+2. “Paul ‘received’ the tradition-that is, he was taught it at his conversion-perhaps two years after Jesus’ death.” -Michael Goulder from the Jesus Seminar
+3. “[The Creed in 1 Corinthians 15:3-8] indubitably goes back to the oldest phase of all in the history of primitive Christianity.” -Ulrich Wilckens
+4. “The elements in the tradition are to be dated to the first two years after the crucifixion of Jesus.” -Gerd Ludemann
+5. “Within two or three years of the first Easter.” -Paul Barnett
+6. “From only a few years after Jesus’ death.” -Richard Burridge and Graham Gould
+7. “Within two or three years at most.” -Robert Funk
+8. Don Kistler, ed., Sola Scriptura: The Protestant Position on the Bible (Morgan, PA: Soli Deo Gloria Publications, 1995). 
+9. Joseph P. Gudel, Robert M. Bowman, Jr., and Dan R. Schlesinger, “Reincarnation — Did the Church Suppress It?” 
+10. Christian Research Journal, Summer 1987, 8-12.Gordon Rupp, 
+11. Luther’s Progress to the Diet of Worms (New York: Harper and Row Publishers, 1964), 66.
+ 
+Verses: 1 Corinthians 15:3-7: 
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Jesus' Legend Was Borrowed From Other Ancient Religions</h1>
+
+### Problems: 
+1. Apart from the fact that gods in pagan myths also performed miracles, which is incredibly vague, the overwhelming majority of claims that ancient pagan myths that are identical to the Gospels are simply false claims.
+2. Every single source that bears closer resemblances to Christianity were dated centuries after Christianity was well known throughout the Roman Empire. The Evidence shows the copying was made by the pagans, not the Christians.
+3. To claim Jesus was a legend like pagan myths in the past is a horrible comparison to make. The names of the original authors are cited from the eyewitnesses and their followers at verifiable moment in history that can be tested or disproven. Mythological deities or Eastern religious figures don’t give us dates or any archeological support for anything they say. It’s a dishonest or uninformed comparison to make.
+
+
+### Facts: 
+1. The claim that Jesus was based on the myth of Horus is factually false: 
+-Baptized at 30 by Anup the Baptizer? 
+That isn’t anywhere in the Egyptian sources, along with “El-Azur-us” being raised by him. 
+-Visited by 3 wise men? 
+That is false. Horus wasn’t visited by 3 wise men and neither was Jesus. He was visited by an undisclosed number of magi from the Parthian Empire with 3 gifts after Daniel’s prophecies clued them in on his scriptures during his time with them and were guided by a moving light, not a star.
+-Born of a Virgin? 
+Isis wasn’t a virgin. She turned into a bird and had sex with the corpse of Osiris. 
+-Born on December 25th? 
+Neither the Egyptian book of the dead or the Bible claim that.
+-Had 12 Disciples? 
+That is false. There is only one hieroglyph of Horus surrounded by the Zodiac. Jesus had 12 Apostles and Hundreds of Disciples.
+-Performed Miracles? 
+All pagan gods did that. A little generic to claim a rip off. That’s like claiming Marvel ripped off DC because both of their heroes have super powers.
+-Crucified, Buried in a Tomb, and Rose from the Dead? 
+Horus died by being torn to pieces and scattered throughout the Nile. His mom put him back together and brought him to the underworld. Crucifixion wasn’t invented until 500BC by the Assyrians, which is over 1000 years after Horus’ myth was completed.
+
+2. The claim that Jesus was based on the myth of Krishna is factually false: 
+-Taught through parables? That isn’t true. He taught things about Hinduism, but not through parables.
+-His beloved disciple Arunja means John? Ask anyone who speaks the language. That is false.
+-Was killed at 30 and rose from the dead? He was killed at 125 with an arrow by a hunter named Jara by accident. He then returned to the place of the Hindu gods.
+-Was crucified on a tree between two thieves? Crucifixion wasn’t invented during Krishna’s lifetime. He was killed by an arrow on accident.
+-Was the Lion of the Tribe of Saki? That is false. Not a single Hindu source says that. 
+-Born of a Virgin? His mother Devaki had 7 other sons before he was born. He was born without sexual intercourse, but his mother wasn’t a virgin.
+-Called the second person of the Hindu Trimurti? That is false. He was one of the 10 Avatars of Vishnu, who is a separate god from Shiva and Brahma. Not a single God with 3 centers of consciousness.
+
+3. The claim that Jesus was based on the myth of Zoroaster is factually false: 
+-Born of a Virgin? 
+Zoroaster’s mother was married and had children before Zoroaster was born. 
+-Baptised in a River? Zoroaster received his revelations about Ahriman and Aru Mazda by a river. He wasn’t dedicated to God in a Jewish ceremony of purification.
+-Was tempted in the wilderness by the devil for 40 days? 
+Zoroaster was attacked by Buiti for 10 years, not 40 days. And Buiti wasn’t the head demon Ahriman. He was a lesser spirit. And he didn’t face him in the wilderness.
+-Cast out demons and healed a blind man? 
+There is no mention of Zoroaster having any power over demons, and the only mention of him performing a miracle like Jesus did was in Shahrastani of Khorassan, written 1000 years after Jesus’ gospels were made available throughout the known world.
+-Referred to as the Word made Flesh and taught Communion through a Cup and Eucharist? 
+False.
+-Taught about Heaven, Hell, Judgment, and Salvation? 
+A little generic don’t you think? And the meanings of those terms were the opposite of Jesus’. God alone would judge, not a committee. Salvation in Zoroastrianism is through works alone. And Heaven and Hell alternate in power over this world every 4000 years in Zoroastrianism.
+
+4. The claim that Jesus was based on the myth of Mithra is factually false: 
+-Born of a Virgin? 
+If you mean a rock, then yes. The rock was not a woman who had not had sexual intercourse before.
+-Was a Travelling Teacher who Performed Miracles? 
+He didn’t travel or teach and all pagan gods performed miracles. 
+-Had 12 disciples? 
+False. He had 1 Companion named Aruna in the Persian version, and in the Roman version, he had 2 named Cautes and Cautopatres.
+-Was sacrificed for world peace? 
+He killed a sacred bull that was dangerous once and survived.
+-His followers were promised Immortality? 
+And?
+-Was called The Way, The Truth, and the Life? 
+No source says anything close to that.
+-His sacred day was Sunday? 
+And?
+
+5. The claim that Jesus was based on the myth of Buddha is factually false: (Note: earliest biography on Buddha dates 200 years after Jesus and when Thomas had already shared the gospel in India)
+-Was born of the virgin Maya on December 25th? 
+Buddha was born on the 8th day of the 4th Lunar month. And Maya isn’t Miryam. His mother was a queen and Buddha was born naturally.
+-His birth was announced by a star? 
+That is false. He was born into royalty and the King and his advisors celebrated the fact it was a boy/heir.
+-He was pronounced ruler of the world? 
+A prophecy was made that he’d Either be a great king OR a great spiritual leader. (1000 years after the fact)
+-He fed 5000 men from a small basket of cakes? 
+That is false. The generic claim that he performed miracles doesn’t equate to him being the inspiration of anyone and anything miraculous after him.
+-He abolished idolatry? 
+That is false on both accounts. They both taught against it, but didn’t abolish it.
+-He died on a cross? 
+Crucifixion wasn’t invented yet nor practiced in India. 
+-He glowed in front of his followers on a mountain? 
+Referring to Enlightenment or a literal glowing? Jesus became like the Sun. Buddha was described as “enlightened.” There are two different kinds of light being described there. 
+-His tomb was supernaturally opened and ascended to Nirvana? 
+That is false. One source said he opened his coffin to speak before he died, and then closed it himself.
+-He was tempted by the demon Mara? 
+And? The temptations weren’t parallels of the temptations Israel fell to when they wandered in the wilderness. No temple, no bread, just a bad starvation dream.
+-He was of royal lineage? 
+And?
+-He will return in the End Times to judge the dead? 
+No Buddhist source teaches that. The Buddha to return, Maitreya, will be an entirely different person.
+
+6. The claim that Jesus was based on the myth of Romulus is factually false: 
+-Was born from the virgin Rhea? 
+Rhea was raped by Mars when she was a virgin. Not a virgin at his birth.
+-Was an incarnate god who came to establish a kingdom on this earth? 
+That is false. He became a demi-god after he was taken into Heaven, and Plutarch wrote this. He was born in 45AD when Christianity had already spread as far as Asia Minor, and didn’t start recording history or telling these stories until after Christianity’s influence had spread throughout the entire Roman Empire. 105AD vs 40AD? Which came first? The Gospels or Plutarch? Jesus was God before He was born (John 1:1-12, Philippians 2:3-11) and remained so after His ascension into Heaven. Romulus became a partial god after his death. There’s a difference and one source is much later than the other.
+-Romulus and Remus were thrown into a river and left for dead, which is the same as the slaughter of the innocents in Bethlehem. 
+How?
+-Was called the Son of God. 
+This meant something entirely different for Greeks than it did for Jews. 
+Romulus was the biological offspring of a roman god having sex with a mortal woman. Jesus was not conceived by God the Father having sex with Mary. It is describing His relationship with the Father within the Trinity.
+-Gave a great commission. 
+Not in the same way Jesus did. Romulus ordered to make his kingdom head over the entire world. Jesus told His disciples to make more followers based on what they had seen happen first hand. He even specified before Pilate that though He was a King, His kingdom was not of this world and therefore His followers weren’t going to be a threat.
+-There was darkness before his death. 
+Referring to bad weather that took him up in a whirlwind, or referring to the Book of Joel when the wrath of God was being poured out on Jesus and the sun supernaturally did not shine? Two very different things. And to add to this, Plutarch and Dionysius’ writings conflict with each other. Claiming that Romulus was killed by his own people.
+-Was taken up to Heaven in a whirlwind. 
+This isn’t what happened to Jesus. This happened to Elijah, which was already in writing 800 years before Rome existed. Who copied who?
+-His corpse went missing after his death. 
+And? We’ve already established that not only are the legends of Romulus written after Christianity had been established even by secular dating of the gospels, but that the way Romulus’ corpse was taken to Heaven and Jesus’ bodily resurrection are two very different things.
+-Romulus was also known as Quirinius, who belonged to a triad of deities. 
+Nimrod using Simiramus, a separate goddess, to give birth to himself isn’t a Trinity. It’s an incarnation at best, but involves two separate gods to make this work. Not a single God with a unique nature. Semiramis and Nimrod weren’t the same deity.
+-Appeared to people after his death. 
+The instructions he left to make Rome head over the world was written in Livy’s account which claimed he never died. That’s not a resurrection appearance.
+
+7. The claim that Jesus was based on the myth of Osiris is factually false: 
+-Osiris’ birth was announced by the 3 stars in Orion’s belt that pointed to Osiris’ star in the east. Sirius. The New Testament never claims 3 wise men announced Jesus’ birth. There were 3 gifts given by a large group of magi, not stars, from the Parthian Empire. They followed a light source, literally an aster, to Bethlehem and didn’t see it again until it literally stood over the house Mary and Joseph had moved into at least 2 years after His birth. That wasn’t a star that was guiding them.   
+-He flesh was eaten ritually to commune with him through wheat cakes. 
+Provide one source this is true.
+-The 23rd Psalm was copied from Egyptian texts that call Osiris the Good Shepherd. 
+Show me the egyptian texts. They don’t exist.
+-The Lord’s Prayer was copied from Osiris’ myth that reads, “O Amen, O Amen, who are in Heaven.” Show me where in the myth. It doesn’t exist. The only thing that the two have in common is that Hebrew prayers also end in amen, which means that you agree with what you’re saying is true. Kind of vague to claim Jesus copied the prayer don’t you think?
+-He was called the god of the vine. 
+That is false. Osiris is shown in hieroglyphics that include grape vines, but no source calls him by this title. Likewise, Jesus didn’t call Himself God of the Vine either. He called Himself the True Vine as an illustration of His life-giving relationship to His disciples like a vine to its grapes.
+-He was called the Resurrection and the Life. 
+That is false. Osiris goes to the Underworld and doesn’t resurrect. In fact, he’s one of the few Egyptian gods to go to and remain in the Underworld. I.E. Die.
+-He was resurrected and served as hope for all humanity. 
+That is false. He died and went to the Underworld and became the god of it. That is not the same as dying, bodily rising from the dead, and ascending into Heaven with the promise that all who believe this happened in history for them will do likewise. Osiris’ death only affected Osiris, and he never returned. 
+
+8. The claim that Jesus was based on the myth of Dionysus is factually false: 
+-He was born from a virgin.
+According to the Myth, Zeus impregnated a woman as a lightning bolt. Then she was killed by Hera out of jealousy, leaving Dionysus intact. Zeus then sewed the baby onto his thigh until he was able to be naturally born. That is nothing even remotely close to the Biblical account.
+-He was a travelling teacher who performed miracles. 
+And? A little vague to claim that Jesus is based on his life with that general of a comparison.
+-He was placed in a manger. 
+That is false.
+-He rose from the dead. 
+Dionysus, according to the legend, was kidnapped and eaten by Titans after they boiled him to death. Zeus took the leftover heart and made a new body for him. Not only does this report date a full 100 years after Christianity had spread throughout the Roman Empire, it’s not a resurrection from the dead. It’s a resuscitation at best. Reassembly at worst.
+-He was crucified on a tree. 
+That is false. The only evidence of that was proven to be a forgery made in the 1900’s known as the Orpheus Amulet.
+-He had the exact same kind of trial Jesus had before the Sanhedrin and Governor. 
+Read the Bacchae. They were nothing alike. Dionysus kept driving women insane, so a king tried to stop him. He went to humiliate the king and escaped. Then sent the women he had control over to murder the king. The only thing that they have in common was that Jesus and Dionysus went willingly to a trial. 
+-His followers ritually killed him and ate his body through bread and wine. 
+You mean according to the writings of Achilles Tatius who wrote about Dionysus being eaten a full 100 years after Christians had already been practicing communion as demonstrated at the Last Supper in 30AD? Who borrowed from whom? Likewise, the story is that Dionysus was boiled and eaten by Titans, and Zeus restored his body since his heart was still leftover. The followers of Dionysus never reenacted this ritual. 
+
+9. The claim that Jesus was based on the myth of Serapis is factually false: 
+-He was called the Good Shepherd. 
+Give one example of him being called that.
+-He performed miracles and healings. 
+And? A little general don’t you think?
+-He was worshipped through lights, bells, and music. 
+And?
+-He and renditions of Jesus look exactly alike. 
+You mean they had beards?
+-He was compared to a sacrificial animal. (Bull vs. Lamb) 
+I think they’re referring to Apis, who during the time of Alexander the Great was said to have fused with Osiris when they both went to the underworld. Jesus voluntarily died for a purpose. He didn’t fuse with another deity and become Osipris in the Underworld.
+-He was yearly sacrificed for the sins of Egypt. 
+Where does the Bible say that Jesus dies every year for our sins? According to the books of Hebrews, Numbers, 1 Corinthians, Matthew, Luke, and John, Jesus’ death only took place once to accomplish our ransom back to God. The Egyptians didn’t sacrifice bulls for their sins. They sacrificed them to gain favor with their gods. 
+-The Roman Emperor Hadrian called the followers of Serapis Christians. 
+The letter written in 134AD, 100 years after Christianity began, by a Roman Emperor capable of getting things confused? Also, this letter was only mentioned in The Historia Augusta in the 300’s, and has been discredited as a volume of forgeries? The letter so full of historical anachronisms that it mentions his adopted son Lucius Varius with him in Egypt despite the fact that he didn’t even know he existed until 20 years later, and describes political representatives Servianus decades before they became consuls? Historians like GW Bowersock say that it is a work of fiction and not historically viable.
+ 
+10. The claim that Jesus was based on the myth of Inanna/Ishtar is factually false: 
+-She was crucified? 
+That never appears once in the original myth. The entire myth is that she descends into the underworld, passes through 7 gates that costs her a piece of her jewelry/clothing, then is thrown into prison and suffers with a disease until she’s rescued so people can continue to “worship” her. The only parallel you could make was that her body was hung on a hook. That isn’t anything close to crucifixion. Jesus was physically tortured through crucifixion in order to kill Him. Not to display His dead body.
+-She was stripped naked? 
+Jesus was stripped naked as a result of Roman torture. Ishtar was stripped naked as a result of losing an article of clothing or jewelry in order to enter the Underworld. Two very different types of “stripping.” 
+-She was Resurrected? 
+Ishtar was tricked into going to the Underworld in an attempt to sieze its throne and ended up sick, in prison, and hung on a hook like a piece of meat. She was rescued by Tammuz who took her place there in the Sumerian version, but both accounts are the same. She ended up turned into a corpse in the Underworld because of her greed for its throne. Jesus physically died, physically rose, and received a new glorified body as a result of His own power. Not because of a power play or Him needing to be rescued. 
+-She was dead for 3 days and nights? 
+Nowhere in Ishtar’s myth does it tell us how long she spent in the Underworld while she was dead. The journey to the underworld took 3 days. 
+-She descended into hell? 
+The Bible doesn’t claim Jesus went to Hell to suffer. The only place very uninformed cult groups go to trying to force this is Ephesians 4:8, where Jesus ransomed those captive to Death before His coming and Resurrection now that their sins have been paid for. The fringe scholars who argue that the Egyptian underworld and the Jewish term Sheol are the same thing simply haven’t done their research.
+
+11. The claim that Jesus was based on the myth of Attis is factually false: 
+-Born of the virgin Nana? 
+Umm, Zeus let some of his seed fall on a mountain that looked like the goddess Rhea, that became an annoying monster that Dionysus tricked into castrating itself through a prank. The dismembered appendage became a tree and Nana found some of its fruit. It disappeared when she placed it on her lap and she became pregnant. How the actual heck does that parallel with Jesus’ birth in any way whatsoever?
+-Was slain for the salvation of mankind? 
+That is false.
+-His body was represented by bread and eaten? 
+Wine and bread were forbidden during Attis’ festivals.
+-Was both a divine son and father? 
+He was a biological son, but not in the relational sense of Jesus. He wasn’t a part of a unique union with Zeus or his mother. He was simply a biologically born son. Not what the Bible says about Jesus in the slightest.
+-Was crucified on Friday, where his blood redeemed the earth? 
+Actually the myth states that he died under a tree, not on it. And he doesn’t do so to redeem anyone. He is in love with a nymph and a goddess gets jealous, so she kills her competition. Attis then castrates himself and dies, growing into a tree and flowers as a result. No mention of crucifixion or redemption anywhere.
+-Resurrected? 
+Attis never comes back to life. The jealous goddess asks Zeus to revive him, but he only keeps his body from rotting. That’s all.
+-His tomb was found empty by his followers? 
+He didn’t have a tomb. He died and became a tree.
+-His followers had a ceremony called taurobolium where they were considered “Born Again?” 
+Guess when this started? According to every single scholar on ancient roman myths, after Christianity began to spread and gained more followers than their pagan cult. 
+
+#### Sources/Evidence: 
+InspiringPhilosophy, The Egyptian Book of the Dead, Srimaad Bhagavatam, The Avesta, The Buddhacarita, Livy’s History of Rome, Plutarch, Roman Antiquities, Dying and Rising Gods, An Encyclopedia of Religion. Leuccipe and Clitophon 2.2.1, Fiction as History: From Nero to Julian, The Historia Augusta, Ishtar’s Descent (Akkadian), 
+ 
+Verses: 2 Peter 1:16: 
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Jesus Was a Myth</h1>
+
+### Problems: 
+1. Jesus is the most well established figure in ancient history. Confirmed by friends and foes not only in His life, but death as well. It’s hard to die if you were never born.
+2. The only scholar who holds this position that isn’t an internet troll is Richard Carrier, who is treated by fellow atheist scholars on the same terms as a Holocaust denier.  
+3. If you’re going to consistently apply the same standards about history that you would in dismissing Jesus’ existence as a myth, you’d have to throw out history as a study in its entirety. 
+Example: Abraham Lincoln existed. Objections: The sources about Abraham Lincoln are too late since they record his death after his death had already happened. The speeches have similarities to other writings before him and couldn’t possibly be references. It must be proof of borrowing to build up this fake figure in history. All of the people who referenced Abraham Lincoln either were biased since they claimed to be his supporters and can’t be trusted to give an accurate account, or never knew him personally and couldn’t have known anything about him in any significant way. Not to mention modern embellishments of the life of Abraham Lincoln have been made like “Abraham Lincoln: Vampire Hunter” proving it was all a myth to begin with. It couldn’t possibly be that people writing about his life and intentionally advertising it as fiction hundreds of years after the fact didn’t intend to be taken seriously with that kind of title. That’s simply not true scholarship to attempt to harmonize evidence. 
+
+### Facts: 
+1. See Problem #1.
+
+#### Sources/Evidence: 
+1 Corinthians 15:3-7: Affirmed by Atheist and Liberal Scholars as well as religious dating within months of the first Easter. 
+ 
+Verses: 1 Corinthians 15:3-8, 2 Peter 1:16
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">The Gospels Are Bad History/Too Late to Be Reliable</h1>
+
+### Problems: 
+1. Applying this standard consistently throws out all of ancient history older than 200 years.
+ 
+### Facts: 
+1. The Gospels are some of the most well preserved and sourced documents in all of ancient history. Written within the lifetimes of the eyewitnesses, affirmed by their disciples, and verified by critics and archeology alike. 
+
+#### Sources/Evidence: 
+Creeds dating to the earliest portions of the Church that affirm the core claims of the Gospels, Multiple first hand eyewitness testimonies confirmed as genuine by martyrdom and torture, 
+The Laws of Textual Criticism: Two separate sources are required to confirm or deny any single event in ancient history. (Archeology, Written Sources, Confirmed locations and individuals)
+The Law of Myth Development: A minimum of 300 years are required before a genuine myth can form. The first eyewitnesses can debunk the myth. The second generation knew the people who saw the events and whether or not they actually happened. The third generation trusts those who came before them. Only after those three generations have died off can lies or embellishments be allowed to flourish in public conversation.
+ 
+Verses: 1 John 1:1-2, 2 Peter 1:16
 
