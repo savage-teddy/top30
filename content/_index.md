@@ -16,7 +16,9 @@ title = "Top 30 Objections to Christianity"
 
 <!--: .wrap -->
 
-## **Questions**
+<p style="text-align:center;font-size:48px;font-weight:800;">Questions</p>
+ 
+ <a href="https://discord.gg/xkv6c6w" target="_blank" style="background-color:black;color:white;padding:10px; border-radius:10px;">Discord Chat</a>
 
 <!--: .flexblock gallery -->
 - {{< gallery title="Bibles been changed" href="#slide=3" src="Bible_Changed.jpg" >}}Bible has been Changed{{< /gallery >}}
@@ -52,8 +54,12 @@ title = "Top 30 Objections to Christianity"
 1. We have more written evidence to support the New Testament than any other document in ancient history. (Over 1000 years old) The earliest complete copies, the Codex Vaticanus and Sinaiticus are Greek copies of the New Testament that are both dated to the 300’s AD. The closest any ancient writing in history comes as close to the original as the New Testament is Homer’s Illiad, which we found a copy of 500 years after the original was written.
 2. The earliest physical evidence of the Bible’s existence is the John Ryland Fragment P52. It is a piece of The Gospel of John including several verses from chapter 18 and is dated to within 20 years of the original. Within the lifetimes of those who had seen the original and its author. 
 3. There are two ways to test if something has been changed over time. Compare the earliest copies to the latest and compare the differences, or Compare all the copies you have and see where and when changes took place over time. The earliest copy of the New Testament is the Vaticanus and it’s identical to what we’re reading today. The total number of New Testament manuscripts we have available to us to compare to the others number over 26,000 the last time we counted. We have more ability to test changes in the Bible than any other written piece of information in ancient history. 
-Sources/Evidence: John Ryland Fragment P52, The Codex Vaticanus (300AD), The Codex Sinaiticus (450AD), The Historical Jesus: Ancient Evidence for the Life of Christ by Dr. Gary Habermas, Christian Apologetics by Norm Geisler, A Ready Defense by Josh McDowell, 
-Verses: 2 Timothy 3:16-17, 2 Peter 1:16, Isaiah 40:8
+
+##### Sources/Evidence: 
+John Ryland Fragment P52, The Codex Vaticanus (300AD), The Codex Sinaiticus (450AD), The Historical Jesus: Ancient Evidence for the Life of Christ by Dr. Gary Habermas, Christian Apologetics by Norm Geisler, A Ready Defense by Josh McDowell. 
+
+##### Verses: 
+2 Timothy 3:16-17, 2 Peter 1:16, Isaiah 40:8
 
 ---
 
@@ -228,8 +234,11 @@ Luke 23:42-43: When He died. - John 20:17: After His ascension.
 Answer: John 20:17 describes His physical body ascending into Heaven. This happened after His soul returned to His body and glorified it. Luke 23 is talking about what happens to everyone who dies in Christianity. Their souls go to God’s presence. Since Jesus was God and the man on the cross He was speaking to was also going to physically die, he was going to be with Him as Jesus returned to be with the Father spiritually. His body stayed on Earth for 3 days before rising with His soul returned to it. Ignoring the definition of Heaven, the context of Jesus’ statement to the man on the cross, and falsely comparing a physical ascension as incompatible with your spirit going to Heaven are not contradictions.   
 
 
-##### Sources/Evidence: Plainly reading the biblical text quoted as “contradictions.”
-##### Verses: Provided in each false claim.
+##### Sources/Evidence: 
+Plainly reading the biblical text quoted as “contradictions.”
+ 
+##### Verses: 
+Provided in each false claim.
 
 
 
@@ -273,7 +282,7 @@ Christian Eyewitnesses: Mary, Mary Magdalene, Joanna, Salome, and other women, P
 1 Corinthians 15:3-8: For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures, and that He was buried, and that He rose again the third day according to the Scriptures, and that He was seen by Cephas, then by the twelve. After that He was seen by over five hundred brethren at once, of whom the greater part remain to the present, but some have fallen asleep. After that He was seen by James, then by all the apostles. Then last of all He was seen by me also, as by one born out of due time.
 These witnesses are important to note because they in themselves are also embarrassing.
 
-#### Sources/Evidence: 
+##### Sources/Evidence: 
 Cited with each claim above. On The Physical Death of Jesus by William D Edwards
 
 #### Christian Reports:
@@ -287,7 +296,8 @@ Cited with each claim above. On The Physical Death of Jesus by William D Edwards
 3. These witnesses all endured lives of persecution, torture, and death for sharing this with people.
 2 Corinthians 11:24-27: From the Jews five times I received forty stripes minus one. Three times I was beaten with rods; once I was stoned; three times I was shipwrecked; a night and a day I have been in the deep; in journeys often, in perils of waters, in perils of robbers, in perils of my own countrymen, in perils of the Gentiles, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren; in weariness and toil, in sleeplessness often, in hunger and thirst, in fastings often, in cold and nakedness—
 
-##### Verses: Cited in each claim above.
+##### Verses: 
+Cited in each claim above.
 
 
 
@@ -301,13 +311,17 @@ Cited with each claim above. On The Physical Death of Jesus by William D Edwards
 1. “Science doesn’t say anything. Scientists do.” -Frank Turek
 2. There’s a difference between Ontology, how things are, and Epistemology, where things came from. Science observes, tests, and repeats modern phenomena to prove Ontology. Saying that because things work a certain way today is the same way it always has or how it worked when everything first came into being are very shaky assumptions that have nothing to do with science.
 3. “Nonsense from the mouths of geniuses is still nonsense.” -John Lennox 
-Facts: 1. Not a single scientific claim discredits a properly understood biblical text. (See Contradictions)
+ 
+### Facts: 
+1. Not a single scientific claim discredits a properly understood biblical text. (See Contradictions)
 2. Having a college degree doesn’t make you incapable of being wrong.
 3. If Jesus claimed to be the God that created the universe, and rose from the dead to prove it, I’m more willing to trust His word on how it happened. 
 
-#### Sources/Evidence: 
-1. I Don’t Have Enough Faith to be an Atheist by Frank Turek and Norm Geisler, Jesus Among Other Gods by Ravi Zacharias, 
-2. Verses: 1 Corinthians 15:14-19: 1 Corinthians 1:18-23: 
+##### Sources/Evidence: 
+1. I Don’t Have Enough Faith to be an Atheist by Frank Turek and Norm Geisler, Jesus Among Other Gods by Ravi Zacharias.
+
+##### Verses: 
+1 Corinthians 15:14-19: 1 Corinthians 1:18-23: 
 
 ---
 
@@ -326,10 +340,11 @@ Facts: 1. Not a single scientific claim discredits a properly understood biblica
 2. God will hold everyone accountable for how they used or abused the free will He gave them.
 3. God didn’t exempt Himself from our suffering. He was the only one with the right to, yet voluntarily became a part of it. In fact, He suffered more than anyone in existence ever has or will.
 
-#### Sources/Evidence: 
+##### Sources/Evidence: 
 God and Philosophy by Antony Flew, I Don’t Have Enough Faith to be an Atheist by Norm Geisler and Frank Turek
 
-Verses: 2 Peter 3:9: 
+##### Verses: 
+2 Peter 3:9: 
 
 ---
 
@@ -344,10 +359,14 @@ Verses: 2 Peter 3:9:
 
 ### Facts: 
 Jesus didn’t discriminate against people. People who do so in His name are doing so ignorant of His teachings and example. I.E. Not Christians.
-Sources/Evidence: Jesus’ position towards women: Luke 10:38-39: 
+ 
+##### Sources/Evidence: 
+Jesus’ position towards women: Luke 10:38-39: 
 Jesus’ position towards cultural exiles: John 4:27: 
 How the original followers of Jesus viewed people from different genders, cultures, and ethnic backgrounds: Galatians 3:28-29: 
-Verses: Cited Above
+ 
+##### Verses: 
+Cited Above
 
 
 ---
@@ -369,10 +388,10 @@ Every single claim of violence in the Old Testament had a historical context of 
 4. Assyria: Warning given by Nahum in 700BC. Nebuchadnezzar didn’t take them over until 600BC.
 5. Babylon: Warning given by Micah/Isaiah in 700BC. The Persians didn’t take them over until the 500’s. 
 
-#### Sources/Evidence: 
+##### Sources/Evidence: 
 Ad Hoc Fallacy defined above. 
- 
-Verses-Warnings:
+  
+##### Verses-Warnings:
 
 + Abraham: Genesis 15:15-31
 + Moses: Exodus 17:16
@@ -406,10 +425,12 @@ Christianity claims to be true. That is either true or it isn’t. Its truth cla
 **_Paganism_**: Claims there are many gods/goddesses. The Bible teaches there is only one.
 
 
-#### Sources/Evidence: 
+##### Sources/Evidence: 
 The First Law of Logic: The Law of Non-Contradiction.
 Two Statements Can't Cancel Themselves Out in the Same Way and the Same Sense and Both Be True.
-Verses: Isaiah 43:10: 
+ 
+##### Verses: 
+Isaiah 43:10: 
 1 Corinthians 15:3-8: 
 Hebrews 9:27-28: 
 John 1:1-12:  
@@ -427,9 +448,11 @@ John 1:1-12:
 1. The original proposal in 1791 by Thomas Jefferson was a clarification on the 1st Amendment which guarantees the freedom of speech and religion to every citizen of the United States so there wouldn’t be a state mandated religion like Europe.
 2. The first amendment does not restrict the actions of those with religious views so long as their religious practices do not violate the law. (Example: Jihad through Terrorism is illegal. Not for religious reasons, but because mass murder is a capital offense) 
  
-#### Sources/Evidence: 
-The Constitution, the Establishment Clause and Free Exercise Clause of the First Amendment, 
-Verses: Deuteronomy 30:15-20
+##### Sources/Evidence: 
+The Constitution, the Establishment Clause and Free Exercise Clause of the First Amendment.
+  
+##### Verses: 
+Deuteronomy 30:15-20
 
 ---
 
@@ -446,10 +469,13 @@ Verses: Deuteronomy 30:15-20
 ### Facts: 
 1. Not a single Christian denomination differs in the core claims of Christianity. They all acknowledge the Deity of Christ, The nature of the Trinity, the process of Salvation, and the Authority of Scripture.
 2. The differences between the denominations are in how they observe the same truths they share with the other Christian groups. Differences in preferred approaches to conduct in church and worship practices don’t make you an entirely different religion.
- 
-#### Sources/Evidence: 
-Definition of Denomination, 
-Verses: 1 Corinthians 12:4-6, Romans 14:1-5
+  
+
+##### Sources/Evidence: 
+Definition of Denomination.
+  
+##### Verses: 
+1 Corinthians 12:4-6, Romans 14:1-5
 
 ---
 
@@ -463,10 +489,12 @@ Verses: 1 Corinthians 12:4-6, Romans 14:1-5
  
 ### Facts: 
 Christianity is based and defined by the example and teachings of Jesus Christ. Not His followers. 
-
-#### Sources/Evidence: 
+ 
+##### Sources/Evidence: 
 The Teachings of Jesus and His Apostles.
-Verses: 1 Corinthians 11:1, 1 Peter 2:22
+ 
+##### Verses: 
+1 Corinthians 11:1, 1 Peter 2:22
 
 ---
 
@@ -482,10 +510,11 @@ Verses: 1 Corinthians 11:1, 1 Peter 2:22
 ### Facts: 
 1. God is spiritual, not material. Though He has a consciousness, He doesn’t have a material body and thus shouldn’t be expected to act like one.
  
-#### Sources/Evidence: 
+##### Sources/Evidence: 
 The Kalam Cosmological Argument: Everything that begins to exist has a cause. The Universe began to exist, therefore the Universe had a cause. This cause was bigger than the Universe, smart enough to cause a functional universe capable of supporting life and not collapse in on itself, conscious enough to want to create a universe, existed before the beginning of the Universe (time itself), and existed before the creation of matter. (Immaterial) What do you call a living and conscious being who is more powerful than anything that exists, has always existed, and is Spirit rather than made of matter? God.
  
-Verses: John 1:1-4, John 4:24
+##### Verses: 
+John 1:1-4, John 4:24
 
 ---
 
@@ -501,7 +530,7 @@ Verses: John 1:1-4, John 4:24
 ### Facts: 
 1. The Council of Nicaea was one of the first public meetings of Christians that was sponsored by the Emperor and without the risk of being murdered for their faith. It was dealing with the teachings of a bishop named Arius who held an abhorrent view of Jesus as only a man but not God due to his cultural biases. They didn’t bring up anything but the Bible to dispute his points and left the council with nothing added to Christianity that wasn’t already there since the first Easter. 
 
-#### Sources/Evidence: 
+##### Sources/Evidence: 
 1. “This tradition, we can be entirely confident, was formulated as tradition within months of Jesus’ death.” -James DG Dunn from the Jesus Seminar referring to 1 Corinthians 15:3-7
 2. “Paul ‘received’ the tradition-that is, he was taught it at his conversion-perhaps two years after Jesus’ death.” -Michael Goulder from the Jesus Seminar
 3. “[The Creed in 1 Corinthians 15:3-8] indubitably goes back to the oldest phase of all in the history of primitive Christianity.” -Ulrich Wilckens
@@ -514,7 +543,8 @@ Verses: John 1:1-4, John 4:24
 10. Christian Research Journal, Summer 1987, 8-12.Gordon Rupp, 
 11. Luther’s Progress to the Diet of Worms (New York: Harper and Row Publishers, 1964), 66.
  
-Verses: 1 Corinthians 15:3-7: 
+##### Verses: 
+1 Corinthians 15:3-7: 
 
 ---
 
@@ -706,10 +736,11 @@ He didn’t have a tomb. He died and became a tree.
 -His followers had a ceremony called taurobolium where they were considered “Born Again?” 
 Guess when this started? According to every single scholar on ancient roman myths, after Christianity began to spread and gained more followers than their pagan cult. 
 
-#### Sources/Evidence: 
+##### Sources/Evidence: 
 InspiringPhilosophy, The Egyptian Book of the Dead, Srimaad Bhagavatam, The Avesta, The Buddhacarita, Livy’s History of Rome, Plutarch, Roman Antiquities, Dying and Rising Gods, An Encyclopedia of Religion. Leuccipe and Clitophon 2.2.1, Fiction as History: From Nero to Julian, The Historia Augusta, Ishtar’s Descent (Akkadian), 
- 
-Verses: 2 Peter 1:16: 
+  
+##### Verses: 
+2 Peter 1:16: 
 
 ---
 
@@ -726,10 +757,11 @@ Example: Abraham Lincoln existed. Objections: The sources about Abraham Lincoln 
 ### Facts: 
 1. See Problem #1.
 
-#### Sources/Evidence: 
+##### Sources/Evidence: 
 1 Corinthians 15:3-7: Affirmed by Atheist and Liberal Scholars as well as religious dating within months of the first Easter. 
  
-Verses: 1 Corinthians 15:3-8, 2 Peter 1:16
+##### Verses: 
+1 Corinthians 15:3-8, 2 Peter 1:16
 
 ---
 
@@ -742,11 +774,373 @@ Verses: 1 Corinthians 15:3-8, 2 Peter 1:16
  
 ### Facts: 
 1. The Gospels are some of the most well preserved and sourced documents in all of ancient history. Written within the lifetimes of the eyewitnesses, affirmed by their disciples, and verified by critics and archeology alike. 
-
-#### Sources/Evidence: 
+ 
+##### Sources/Evidence: 
 Creeds dating to the earliest portions of the Church that affirm the core claims of the Gospels, Multiple first hand eyewitness testimonies confirmed as genuine by martyrdom and torture, 
 The Laws of Textual Criticism: Two separate sources are required to confirm or deny any single event in ancient history. (Archeology, Written Sources, Confirmed locations and individuals)
 The Law of Myth Development: A minimum of 300 years are required before a genuine myth can form. The first eyewitnesses can debunk the myth. The second generation knew the people who saw the events and whether or not they actually happened. The third generation trusts those who came before them. Only after those three generations have died off can lies or embellishments be allowed to flourish in public conversation.
  
-Verses: 1 John 1:1-2, 2 Peter 1:16
+##### Verses: 
+1 John 1:1-2, 2 Peter 1:16
 
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">All Religions Are Basically The Same</h1>
+
+### Problems: 
+1. What do you mean by basically? The essentials of each belief contradict each other, so essentially they are different.
+2. Every religion claims to be true. That is either true or it’s false. If one is true and makes claims that exclude the others, then it alone is true and all of the others are false since they conflict with the truth. 
+3. Every religion teaches about Heaven, Hell, God, The Devil, Morality, Origin, and Purpose. Their teachings on those topics differ. Saying they are all the same because they address the same categories is like saying all school subjects teach the same thing since they all involve a teacher, students, a rubric, and a topic. Those topics, teachers, and rubrics are all very different when examined closely.
+
+### Facts: 
+Every religion makes claims that fundamentally exclude all others apart from itself.
+
+1. Christianity: 
+God: One God with a unique nature, Father, Son, and Spirit. The Son became a man in a moment of history and showed that He is a God of perfect justice and mercy by judging all sin, but offering mercy at His own expense so a relationship with man could be possible again.
+The Devil: An angel of great power, but an angel nonetheless. His influence isn’t the origin of evil, but he is the original being that separated himself from the source of everything good. He will ultimately face justice, but until then is used as the living example of exactly what the alternative is from a relationship with God.
+Heaven: Where God is. Very little details are given in scripture. The emphasis is on knowing Jesus.
+Hell: Separation from God. A state of torment, not torture, where you are given what you want if you refuse a relationship with God. This also excludes all of His good and perfect gifts. It is eternal.
+Morality: God’s nature. Sin, or to miss, is falling short of that standard and requires the sacrifice of Jesus to redeem you from and restore you, heart and mind, back to God.
+Origin: God created us in His image. We are moral, personal, and relational beings and reflect His spiritual attributes. Therefore, we are intrinsically valuable at a higher level than any other creature because of that origin.
+Purpose: God created us for a relationship with Him. Restoration to that relationship is the ultimate goal and priority of the God of the Bible and where our ultimate fulfillment is found.
+
+2. Islam: 
+God: One God with one essence. He can’t enter this world, eat food, or interact with man in any way apart from mediators like angels. You can’t have a relationship with Allah apart from a slave to master relationship.
+The Devil: Not an angel, but a djinn/genie. He is not exclusively the enemy of all mankind, but merely one enemy to the Muslims from the truth alongside Christians, Jews, and Non-Muslims.
+Heaven: A carnal paradise of wine, prostitutes, and everything else that Muslims are motivated by in the Quran and Hadith.
+Hell: A carnal pit of torture that directly punishes you in specific ways for specific actions and given in explicit detail. The majority of the inhabitants of hell are women, and male Christians will be sent there for the sins of Muslims who have done enough good deeds to outweigh them.
+Morality: At the beginning of your life, two angels are placed on your shoulders to record your good and bad deeds. At the end of your life, they will place their records of you on a scale and you’ll have the opportunity to climb a thread to a razor thin bridge to paradise. If your bad deeds outweigh your good, or you fall at any time during this crossing, you will go to Hell. Good deeds aren’t based on Allah’s nature, but Muhammad’s example. This includes the morally reprehensible things he’s done. Child marriages, executing apostates and critics, and other things are justified in the Muslim world because Muhammad is their “excellent example” and the “walking Quran.” 
+Origin: Everything in Islam is explained by “Allah knows.” His actions and reasons for doing so simply are his own and according to the Quran, people shouldn’t ask questions about them lest they lose their faith and by extension, their lives. 
+Purpose: Your purpose in life is to submit to God the way Muhammad did. If you don’t, or don’t enough, you’re going to be killed by Muslims and punished by Allah.
+
+3. Buddhism: 
+God: There is no personal God. The universe is the eternal and ultimate essence of which everything is and will return to once you become enlightened.
+The Devil: There is no personal devil. The only thing that separates you from the divine is suffering (dukha) and the lifetimes you must die and reincarnate before you are enlightened and become one with the universe.
+Heaven: There is no Heaven. Only the goal of one day not living in a world of suffering or happiness anymore.
+Hell: There is no Hell. The worst fate of a Buddhist is to continue to live on this earth and suffer.
+Morality: There is no morality. Right and Wrong are concepts absent from Buddhism. Good and Evil in the universe must be balanced. Therefore, if good happens, Karma demands evil must happen elsewhere. And Vice versa. That’s why a Buddhist’s goal isn’t to do good or evil for anyone. The most devout Buddhists lock themselves away from the world and do nothing but meditate to keep everything in balance.
+Origin: Buddhism makes no claims about your origin. It only addresses where you are and how you get out of it through practical and moral  indifference.
+Purpose: Your purpose is to die and come back again and again until all of the good and evil you have done is undone by Karma and you are enlightened, never to exist again.
+
+4. Hinduism: 
+God: There are hundreds and thousands of gods, all of which are unique and separate with their own agendas and attributes.
+The Devil: There are hundreds of thousands of demons, all of which are unique and separate with their own agendas and attributes.
+Heaven: Brahman is the ultimate essence and eternal nature of the universe that you eventually are assimilated into, like Buddhism, and become an impersonal part of everything and nothing.
+Hell: Like Buddhism, a Hindu’s curse is to reincarnate. To live is Hell, and to stop coming back after working out all of your Karma is to escape Hell.
+Morality: There is no objective morality in Hinduism. Due to the massive number of gods, good and not good are based on whichever god you choose to follow in pursuit of Brahman.  
+Origin: There is no origin in Hinduism. Time is a cycle that will continue forever, and never began. 
+Purpose: The goal of Hinduism is to escape this reality, like Buddhism, and through reincarnation accomplish this through the caste system or the favor of the god of your choice.
+
+5. Paganism: 
+God: There are many gods, all of which represent a different aspect of nature.
+The Devil: There is no specific devil, and at times the greatest enemy to your relationship with God is the god you are worshiping’s whims and moods.
+Heaven: The Underworld, or a form of it, is where you leave the physical and become immaterial and enjoy a place where various pleasures can be enjoyed, carnal or otherwise. (depends on the cultural context of paganism. Wicca’s Summerland and the Norse realms of the Dead are carnal. Roman and Egyptian realms of the underworld are simply peaceful.)
+Hell: The Underworld, depending on the whims of your god. You can be tortured forever based on the displeasure of your god on personal or legal levels.
+Morality: Different gods have different standards. Therefore, since a person following one god could be deliberately violating every standard of another god, but doesn’t answer to them concerning morality, there is no objective moral standard for all people at all times.
+Origin: It varies, but the common cultural assumption is that Chaos became conscious and started having kids with his wife. We just sort of happened along the way as the result of either battles between these superpowered kids or accidents that are no less explainable than they are.
+Purpose: Since every pagan god is essentially just a bad habit with a name on it, the pursuit of pleasure.
+
+6. Atheism: 
+God: There is none.
+The Devil: The people who believe there is a God are the reason for everything they call wrong.
+Heaven: There is none. Good deeds have no reward.
+Hell: There is none. Justice for evil is a delusion.
+Morality: There is none apart from the individual’s opinion.
+Origin: In the beginning there was nothing, and it blew up.
+Purpose: None.
+
+7. Cults: 
+God: Your organization determines what is right or wrong for you on his/her behalf.
+The Devil: Anyone who isn’t a part of your organization.
+Heaven: Continued membership in your organization and community.
+Hell: Separation and disassociation from your community in this life and the next.
+Morality: Your organization determines what is right in God’s eyes.
+Origin: Your organization affirms or denies the origin claims of other religions.
+Purpose: To support and build up the influence of your organization.
+
+
+##### Sources/Evidence: 
+The First Law of Logic: The Law of Non-Contradiction. Two things can’t be true in the same way and the same sense while at the same time cancel each other out.
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">The Old Testament Isn't Historically Reliable</h1>
+
+### Problems: 
+1. Not a single claim against the Old Testament’s reliability apart from the opinions of the critics has discredited a single passage of biblical text read in proper context.
+2. The assumption that miracles discredit the Old Testament is made off of an unfair and groundless bias. Saying that things can’t happen that don’t happen naturally reject the possibility that a hand can’t catch a ball when it is thrown because it should always naturally hit the ground. Miracles are just introducing new factors to natural phenomena. Once we have reason to believe there is something that can introduce those factors beyond the physical, it’s no longer a matter of if. It’s just a matter of why, which the Old Testament explains.
+
+### Facts: 
+1. Jesus affirmed the Old Testament as literal history and He rose from the dead to confirm His identity as God.
+2. The Old Testament is as verifiable as any other ancient text in history. We know it was reliably transmitted with an example of different writings both over 1000 years old that are virtually identical when compared to each other.
+3. The people, places, and events in the Old Testament that can be tested externally all have been confirmed showing it is reliable history to any fair enquirer.
+
+##### Sources/Evidence: 
+The Ebla Tablets, The Dead Sea Scrolls, The Masoretic Texts, The Taylor Prism, The Banner of Ur, etc.
+ 
+##### Verses: 
+2 Peter 1:16
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Miracles Are Always False</h1>
+
+### Problems: 
+1. That is an assumption and a bias based on naturalism. A worldview that is fundamentally incoherent. The assumption that nothing exists that can’t be observed with the 5 senses rejects concepts like logic, mathematics, the scientific method, and everything else the worldview is based on. 
+2. Claiming something is always false is made from a bias that requires you to ignore evidence that conflicts with what you’ve already decided. That’s not an effective way of discovering truth. 
+(Example: There’s a difference between saying there’s a square circle that conflicts with itself by definition and saying there’s something you can’t see that can do things. The first assumes the definition of what a square and circle are. The second assumes there’s nothing in this universe you don’t know about. Which is unreasonable to assume?)
+
+### Facts: 
+1. Miracles are simply introducing new factors into what usually happens. 
+(Example: A ball falls, it normally hits the ground. A miracle is when a hand catches it instead.)
+2. Naturalism is a self defeating worldview. In order to claim that only natural and material things are real means that the claim that “Naturalism is true” isn’t real since the concept of truth isn’t natural or material.
+
+##### Sources/Evidence: 
+The definition of Miracle, Miriam Webster Dictionary definition of Naturalism, the First Law of Logic: The Law of Non-Contradiction
+ 
+##### Verses: 
+Genesis 1:1
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Evolution Is a Fact</h1>
+
+### Problems: 
+1. What kind of Evolution? Micro-Evolution is merely the adaptation animals genetically experience to suit their environments. No informed Christian disputes that. Macro-Evolution is the belief that all species originated from a single organism and changed over trillions of years into the wide variety of animals we see today. These are two very different things.
+2. Not a single example of a transitional species has been discovered in the fossil record, and in order for Macro-Evolution to be a fact, there’d need to be millions throughout the ages buried everywhere to demonstrate this kind of change. We haven’t found one.
+3. The claim that creatures from one species could transition to the other requires irreducibly complex systems like feathers, scales, and other systems taken for granted by liberal scholars to be a part of an animal for a very long period of time without either helping the organism survive. Even assuming this happened, which we have no evidence for without committing a rainbow of logical fallacies, any biologist worth their salt would affirm that survival for this kind of animal making its way from being a reptile to a bird would have a very difficult time surviving. Let alone thriving and becoming the dominant species in a particular area.
+
+### Facts: 
+1. The Cambrian Explosion in the fossil record shows that all evidence of living creatures existing on this Earth did so at the same time and died together as separate species.
+2.  No matter how a dog, cat, or fruit fly adapts to their environment, they always remained a dog, cat, or fruit fly. Mutations have never created a separate species from the rest. If nothing else, they have only harmed them.
+3. The genetic structure of living creatures is so incredibly and irreducibly complex that to claim it took place by chance, let alone preserved itself for no reason or intelligence behind it, is playing with odds so astronomical that it passed the realm of absurd. Odds higher than the number of seconds since the universe first began to exist. (According to their dates.)
+
+##### Sources/Evidence: 
+Already Gone by Answers in Genesis
+
+##### Verses: 
+Genesis 1-2, John 1:3, Psalm 139:15, 
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Christianity is True For You But Not For Me</h1>
+
+### Problems: 
+That's a self-defeating statement.
+“That's True For You But Not For Me! Is That Statement True For You But Not For Me?”
+ 
+### Facts: 
+If your objection to Christianity is based on a nonsense statement, it's not a good reason.
+
+##### Sources/Evidence: 
+The First Law of Logic: The Law of Non-Contradiction.
+Two Statements Can't Cancel Themselves Out in the Same Way and the Same Sense and Both Be True.
+Verses: Isaiah 1:18: Come now, and let us reason together. Those your sins are like scarlet, they shall be white as snow. Though they are red as crimson, they shall be white like wool.
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">God Committed/Ordered Genocide, Infanticide, Fratricide, Mass Murder, Etc</h1>
+
+### Problems: 
+1. There’s a difference between murder and killing. There’s a difference between war and genocide. There’s a difference between ordering mass murder and judgment as the giver and taker of life.
+2. Just because you aren’t allowed to play God doesn’t mean God isn’t either.
+ 
+### Facts: 
+Every single claim of violence in the Old Testament had a historical context of war after hundreds of years of mercy and only directed towards specific cultures that were aware that what they were doing would warrant consequences.
+1. Canaan: Warning given by Abraham around 2000BC. Joshua didn’t enter Canaan until 1410BC.
+2. Amalek: Warning given by Moses in 1450BC. Saul didn’t get the order to wipe them out until 1000BC.
+3. Philistines: Warning given by Samuel in 1000BC. Nebuchadnezzar didn’t wipe them out until the 600’s.
+4. Assyria: Warning given by Nahum in 700BC. Nebuchadnezzar didn’t take them over until the 600’s.
+5. Babylon: Warning given by Isaiah in 700BC. Alexander didn’t take over until the 300’s BC.
+6. Israel: Warning given by Moses in 1410BC. Sennacherib didn’t take them over until the 700’s BC.  
+7. Judah: Warning given by Moses in 1410BC. Nebuchadnezzar didn’t take them over until the 600’s.
+ 
+##### Sources/Evidence: 
+The Old Testament
+ 
+##### Verses: 
+Genesis 15:13-20, Exodus 17:8-16, Deuteronomy 24:17-19, Judges 13:1, Nahum, Isaiah 12, etc.
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">There is No Evidence For God's Existence</h1>
+
+### Problems: 
+There is.
+
+### Facts: 
+1. The Ontological Argument for God’s Existence: If there is such a thing as perfect, there is a perfect being that concept is based on.
+2. The Cosmological Argument for God’s Existence: Everything that begins to exist has a cause. The Universe began to exist, therefore the universe had a cause. This cause existed before time, space, and matter, thus eternal and immaterial. Everything that starts had a starter.
+3. The Moral Argument for God’s Existence: If there is such a thing as good, there is a standard by which that concept is based on. This absolutely perfect and moral being is not only above mankind since its standards apply to us, but has a will and nature to determine these moral laws. Laws always have law-givers.
+4. The Teleological Argument for God’s Existence: The Universe has function at such a complex and microscopic level that if they didn’t it would all have fallen apart the moment it came into existence. If the Laws of Gravity, physics, chemistry, and more all didn’t come into existence at the same time and in the same way they do today, we wouldn’t exist. Even if the functions of our bodies or this world’s weather were altered even slightly, we couldn’t survive. Simply put; Everything with design has a designer.
+5. The Resurrection of Jesus of Nazareth: A man in history claimed to be the True and Living God and backed it up with a historically verifiable Resurrection from the Dead.  If we’re going to listen to anyone tell us about God, it would be Him.
+
+##### Sources/Evidence:
+Provided in each answer.
+
+##### Verses: 
+1 Corinthians 15:3-7, Genesis 1:1, Psalm 139:14 
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">There is No Evidence For the Resurrection</h1>
+
+### Problems: 
+There is.
+ 
+### Facts: 
+1. Eyewitness Testimony: Atheists and Agnostics alongside Christians acknowledge the historical death of Jesus was not only a public event, but His disciples who preached the message of His resurrection would have been the same people who saw Him live and die first-hand.
+2. Embarrassing Testimony: The eyewitness reports of Jesus’ resurrection admitted details that made them look worse rather than better. People don’t lie to make themselves look worse. And yet they reported that they abandoned Jesus when He was arrested, doubted it was really Him even after He had risen, and that the first believers and witnesses to the Resurrection were women. Culturally to 1st century Jews, this was humiliating and wouldn’t have been made up to build credibility. It not only made them less credible, but made it so that the only thing they had going for them were the facts on the table.
+3. Excruciating Testimony: You can die for a lie, but you have to believe it is true. No one dies for their lies. The disciples knew first-hand whether or not they had actually seen Jesus alive and interacted with Him in groups, and they all went to their deaths after lives of exile, persecution, and torture for simply claiming what they knew to be true. 
+4. Empty Tomb: If Jesus didn’t rise, then He would have still been in the tomb. The facts on the table were that the disciples had no means, motive, or opportunity to steal the body during Passover month when He had been buried in a public place. If Jesus’ enemies stole the body, they would have produced it to debunk the Apostle’s claims once and for all. If Jesus was still in the tomb, then their public statements about His resurrection would have been simply dismissed by a trip around the corner. And the claim that Jesus somehow survived crucifixion is only coming from someone who knows nothing about it.
+5. Early Testimony: The belief that Jesus’ resurrection developed over the centuries like a myth is false even according to atheists and skeptics. The early church taught new believers through short creeds given that most couldn’t read or write. The earliest of which according to the most liberal of scholars is found recorded in 1 Corinthians 15:3-7, teaching Jesus’ death, burial, and resurrection confirmed by individuals and groups along with friends and foes and dated this claim within months of the crucifixion.
+ 
+##### Sources/Evidence: 
+The Gospels, Tacticus’ Annals, Josephus’ Antiquities of the Jews, Mara ban Seraphon, Eusibius, Polycarp, The Jesus Seminar, Bart Ehrman, Frank Turek and Cross Examined.
+ 
+##### Verses: 
+1 Corinthians 15:3-7, 1 John 1:1-3
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">God Is Jealous</h1>
+
+### Problems: 
+1. If you allow the existence of God, you’ve admitted there’s an actual objective standard to what is good and what isn’t. If His nature exists, then it is by definition what is called good. Therefore, if He experiences an emotion, it is good when practiced His way. 
+2. If God being jealous is something you don’t like, you’re admitting He exists. Therefore, even if your views about Him are valid, you admitted the thing you’re trying to dismiss. That He exists. 
+ 
+### Facts: 
+1. Jealousy is different from Envy. Jealousy is a desire for exclusiveness in a relationship. That can be good if you are genuinely the better option for someone who is settling for less than you. Humans can’t say this is the case for certain in their relationships, but it can be known for certain with God and us. 
+2. Jealous isn’t the only name God has for Himself. He is also called the Savior, Banner, Protector, Comforter, Warrior, Redeemer, Creator, and others.
+3. Emotions aren’t evil. What you do with them are. The only thing God did with His Jealousy is present Himself as the better option to the things that are destroying our lives and even then still respects our decisions to walk away from and reject Him.
+
+##### Sources/Evidence: 
+The Old Testament and basic laws of the English language.
+ 
+##### Verses: 
+Exodus 34:14, Genesis 17:1, Genesis 14:8, Genesis 14:2, Genesis 2:4, Exodus 17:15, Exodus 15:26, etc.
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">The Trinity Doesn't Make Sense</h1>
+
+### Problems: 
+1. Normally when something doesn’t make sense, you try to learn more about it rather than throw it out altogether. 
+2. We shouldn’t expect an infinite being to be fully comprehensible by finite human beings. 
+3. If you can’t have a relationship with someone unless you understand everything about them, you can’t have a relationship with anyone. 
+ 
+### Facts: 
+1. The Bible makes it abundantly clear that there is one and only one God.
+2. The Bible also makes it abundantly clear that within this one God, a relationship is taking place with 3 separate centers of consciousness. 
+3. The Father, Son, and Holy Spirit are the only beings in existence that have the attributes of being eternal, all present, all powerful, and knowing everything.
+4. The Father, Son, and Holy Spirit are all prayed to, worshipped, give life, and are given credit for creating the Universe.
+5. The Father, Son, and Holy Spirit’s oneness as the True and Living God allow Him the ability to love before anything was created.
+ 
+##### Sources/Evidence: 
+The Old and New Testament
+ 
+##### Verses:
+Deuteronomy 6:4, Isaiah 43:10-11, Isaiah 44:6, John 17:3, 1 Corinthians 8:5-6, Isaiah 64:8, John 1:1-14, Acts 5:3-4, Job 33:4, Colossians 1:15-17, 1 Kings 8:27, Matthew 28:19-20, 1 Corinthians 2:10-11, John 5:21, 2 Corinthians 13:14, Psalm 90:2, Micah 5:2, Hebrews 9:14, etc.
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">There Are Other/Better Explanations For The Universe Than God</h1>
+
+### Problems: 
+1. An explanation being better is an opinion. An explanation being true depends on whether or not it lines up with reality. You can lie and call it a better explanation because you like it. It doesn’t make it true.
+2. Having other explanations for something doesn’t make the first explanation available less true. There are infinite ways to answer a math equation. It doesn’t make the correct answer less true. There is a wrong answer to explaining reality.
+ 
+### Facts: 
+1. If an explanation is true and offers more explanations for the questions worth asking in life, it is the best possible explanation. 
+2. The involvement of an all powerful creator and maintainer of the Universe explains; the origin of the universe, the meaning of life, the standard for morality, the destiny of all living beings, the question of evil, the fine tuning of the universe, the definition of truth, the resurrection of Jesus Christ, what the true religion is, and God’s feelings towards us.
+
+##### Sources/Evidence: 
+The Definition of Truth
+ 
+##### Verses: 
+John 17:17
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Christianity is Intolerant</h1>
+
+### Problems: 
+1. How do you define intolerance? To Tolerate someone means “the ability or willingness to tolerate something, in particular the existence of opinions or behavior that one does not necessarily agree with.” If I refuse to tolerate someone, it means I won’t allow the existence of opinions or behavior that I disagree with. 
+2. To the person who is making this claim about Christians being intolerant, why are you being intolerant of their intolerance? This is a self-defeating position.
+3. Truth is intolerant by definition. You have to clarify if people can tolerate something and ideologies can tolerate something. 
+ 
+### Facts: 
+1. Christianity is based on the teachings and example of Jesus Christ, whose only confrontation of opinions and behavior different than His own was verbal. He never attacked or killed anyone for having a different opinion than Him. He told people when they were wrong, but never forced them to agree with Him. 
+2. “Christians” whose behavior do not line up with the teachings and example of Christ do not speak for Christianity. Never judge a religion by its abusers. Judge it by its foundation and example. 
+3. Disagreeing with someone isn’t intolerant. Not letting someone disagree with you is. Christians following Christ allow people to reject Christianity but don’t want someone to make that decision without knowing a better option is available.
+4. Jesus’ followers were told to share the good news with the surrounding cities and nations, and if they were rejected, commanded them to only shake the dust off of their feet and leave. When His followers asked if they could call down fire on those who rejected Him, Jesus condemned their intolerant attitude.
+ 
+##### Sources/Evidence: 
+Webster-Merriam Dictionary Definition of Tolerance, The New Testament (Gospels)
+
+##### Verses: 
+Matthew 10:14-15, Acts 13:51
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">Can God Make A Rock So Big He Can't Lift It</h1>
+
+### Problems: 
+1. There’s a difference between God doing everything and being able to do anything.
+2. Even assuming God would make a stone He could lift, You’re forgetting what God is on two accounts. He is Spirit, therefore doesn’t have arms to lift things. Secondly, God means the Greatest possible being. By definition, a being that can lift all stones. Most don’t even assume this point, but either way it is an incoherent position.
+3. Why would He?
+ 
+### Facts: 
+1. God can’t violate His own nature.
+2. Omnipotence means you can do anything logically possible. You can’t make 2+2=5.
+3. Claiming that someone isn’t powerful unless they can beat themselves in an arm wrestling contest is either confused about what power is or is on drugs.
+ 
+##### Sources/Evidence: 
+Definitions of God and Omnipotence
+ 
+##### Verses: 
+Philippians 4:13, Genesis 18:14, Jeremiah 32:27
+
+---
+
+<!--: .wrap bg=bg-gray -->
+<a href="#slide=2" style="font-weight:700; background-color:black; padding:10px; font-size:18px; border-radius:10px;">Back to Questions</a>
+<h1 style="text-align:center;padding-bottom:10px;font-family:Bookman;font-size:6rem;">I Hate God</h1>
+
+### Problems: 
+Facts don’t care about your feelings. 
+ 
+### Facts: 
+Reality is Reality regardless of how you feel about it. If you hate a non-existent being, you’re deluded. If you hate the most powerful being in existence, you’re voluntarily taking a losing position.  
+ 
+##### Sources/Evidence: 
+Ben Shaprio
+ 
+##### Verses: 
+John 15:18-25
