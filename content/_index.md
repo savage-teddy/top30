@@ -25,10 +25,12 @@ title = "Top 30 Objections to Christianity"
 - {{< gallery title="Bibles contradicts iteself" href="#slide=4" src="Bible_Contradict.jpg" >}}Bible contradicts itself{{< /gallery >}}
 - {{< gallery title="Jesus didn't rise from the dead" href="#slide=5" src="JesusDidntRise.jpg" >}}Jesus didn't ressurect{{< /gallery >}}
 - {{< gallery title="Science has disproven the Bible" href="#slide=6" src="ScienceClaim.jpg" >}}Science Disproves Bible{{< /gallery >}}
+
 - {{< gallery title="Too much evil" href="#slide=7" src="Evil.jpg" >}}Too much evil{{< /gallery >}}
 - {{< gallery title="Christians discriminate" href="#slide=8" src="Discriminate.jpg" >}}Christians discriminate{{< /gallery >}}
 - {{< gallery title="Christians are violent" href="#slide=9" src="Violence.jpg" >}}Christianity is violent{{< /gallery >}}
 - {{< gallery title="Christians are arrogant" href="#slide=10" src="Arrogant.jpg" >}}One way... Arrogant{{< /gallery >}}
+
 - {{< gallery title="There should be Separation of Church and State" href="#slide=11" src="ChurchState.jpg" >}}Church vs State{{< /gallery >}}
 - {{< gallery title="Thousands of denominations" href="#slide=12" src="Denominations.jpg" >}}Lots of Denominations{{< /gallery >}}
 - {{< gallery title="Christians are Hypocrites" href="#slide=13" src="Hypocrites.jpg" >}}Chrisitans are Hypocrites{{< /gallery >}}
@@ -38,6 +40,24 @@ title = "Top 30 Objections to Christianity"
 - {{< gallery title="Jesus was borrowed" href="#slide=16" src="JesusLegend.jpg" >}}Jesus was borrowed{{< /gallery >}}
 - {{< gallery title="Jesus is a Myth" href="#slide=17" src="JesusMyth.jpg" >}}Jesus is a Myth{{< /gallery >}}
 - {{< gallery title="Gospels aren't Reliable" href="#slide=18" src="BadGospels.jpg" >}}Gospels aren't Reliable{{< /gallery >}}
+
+- {{< gallery title="All Religions are basically the same" href="#slide=19" src="Twins.jpg" >}}Religions are the same{{< /gallery >}}
+- {{< gallery title="Old Testament isn't reliable" href="#slide=20" src="Reliable.jpg" >}}OT isn't reliable{{< /gallery >}}
+- {{< gallery title="Miracles are always false" href="#slide=21" src="Miracle.jpg" >}}Miracles are false{{< /gallery >}}
+- {{< gallery title="Evolution is fact" href="#slide=22" src="Evolution.jpg" >}}Evolution is fact{{< /gallery >}}
+
+- {{< gallery title="Christianity is True For You But Not For Me" href="#slide=23" src="Relative.jpg" >}}Not True For Me{{< /gallery >}}
+- {{< gallery title="God Committed/Ordered Genocide, Infanticide, Fratricide, Mass Murder, Etc" href="#slide=24" src="Monster.jpg" >}}God's a Monster{{< /gallery >}}
+- {{< gallery title="There is No Evidence For God's Existence" href="#slide=25" src="Evidence.jpg" >}}No Evidence For God{{< /gallery >}}
+- {{< gallery title="There is No Evidence For the Resurrection" href="#slide=26" src="Ressurection.jpg" >}}0 Ressurection Evidence{{< /gallery >}}
+
+- {{< gallery title="God Is Jealous" href="#slide=27" src="Jealous.jpg" >}}God Is Jealous{{< /gallery >}}
+- {{< gallery title="The Trinity Doesn't Make Sense" href="#slide=28" src="Trinity.jpg" >}}Trinity Nonsense{{< /gallery >}}
+- {{< gallery title="There Are Other/Better Explanations For The Universe Than God" href="#slide=29" src="BetterExplanation.jpg" >}}Better Explanations{{< /gallery >}}
+- {{< gallery title="Christianity is Intolerant" href="#slide=30" src="Intolerance.jpg" >}}Christianity is Intolerant{{< /gallery >}}
+
+- {{< gallery title="Can God Make A Rock So Big He Can't Lift It" href="#slide=31" src="BigRock.jpg" >}}Big Rock Arg{{< /gallery >}}
+- {{< gallery title="I Hate God" href="#slide=32" src="Hate.jpg" >}}I Hate God{{< /gallery >}}
 
 ---
 
